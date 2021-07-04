@@ -1,0 +1,26 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "minecraft:farmland_from_water_and_dirt"
+    },
+    "ingredients": [
+      {
+        "item": "minecraft:bucket",
+        "data": 8
+      },
+      {
+        "tag": "minecraft:dirt"
+      }
+    ],
+    "result": [
+      {
+        "item": "minecraft:farmland"
+      },
+      {
+        "item": "minecraft:bucket",
+        "data": 0
+      }
+    ]
+  }
+}

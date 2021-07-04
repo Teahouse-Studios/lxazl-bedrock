@@ -1,0 +1,17 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "minecraft:tnt_from_creeper_head"
+    },
+    "ingredients": [
+      {
+        "item": "minecraft:creeper_head"
+      }
+    ],
+    "result": {
+      "item": "minecraft:tnt",
+      "count": 9
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:command_block_from_obsidian_and_redstone_block"
+    },
+    "pattern": [
+      "OOO",
+      "ORO",
+      "OOO"
+    ],
+    "key": {
+      "O": {
+        "item": "minecraft:obsidian"
+      },
+      "R": {
+        "item": "minecraft:redstone_block"
+      }
+    },
+    "result": {
+      "item": "minecraft:command_block"
+    }
+  }
+}

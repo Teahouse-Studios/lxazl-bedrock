@@ -1,0 +1,30 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "§aLx关于配方的点子",
+    "name": "§6Lxazl's Crafting Recipes",
+    "uuid": "2972fc73-1d03-4793-8ea1-ff936413d49b",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      13,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "§aLx关于配方的点子",
+      "type": "data",
+      "uuid": "8b583af5-6323-4a0a-9ca0-f6c65b2838df",
+      "version": [
+        0,
+        0,
+        31
+      ]
+    }
+  ]
+}

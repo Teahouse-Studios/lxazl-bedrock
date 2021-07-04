@@ -1,0 +1,23 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:ancient_debris_from_netherite_scrap"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "NN",
+      "NN"
+    ],
+    "key": {
+      "N": {
+        "item": "minecraft:netherite_scrap"
+      }
+    },
+    "result": {
+      "item": "minecraft:ancient_debris"
+    }
+  }
+}

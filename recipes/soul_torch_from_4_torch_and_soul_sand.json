@@ -1,0 +1,24 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:soul_torch_from_4_torch_and_soul_sand"
+    },
+    "pattern": [
+      " T ",
+      "TST",
+      " T "
+    ],
+    "key": {
+      "T": {
+        "item": "minecraft:torch"
+      },
+      "S": {
+        "tag": "minecraft:soul_sand"
+      }
+    },
+    "result": {
+      "item": "minecraft:soul_torch"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:ancient_debris_from_netherite_scrap"
+    },
+    "pattern": [
+      "FF",
+      "FF"
+    ],
+    "key": {
+      "F": {
+        "item": "minecraft:flint"
+      }
+    },
+    "result": {
+      "item": "minecraft:gravel"
+    }
+  }
+}

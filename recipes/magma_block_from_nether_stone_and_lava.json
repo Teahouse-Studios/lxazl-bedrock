@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:magma_block_from_nether_stone_and_lava"
+    },
+    "pattern": [
+      "NNN",
+      "NLN",
+      "NNN"
+    ],
+    "key": {
+      "N": {
+        "item": "minecraft:netherrack"
+      },
+      "L": {
+        "item": "minecraft:bucket",
+        "data": 10
+      }
+    },
+    "result": {
+      "item": "minecraft:magma_block"
+    }
+  }
+}

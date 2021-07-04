@@ -1,0 +1,24 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:sea_lantern_from_glowstone"
+    },
+    "pattern": [
+      "PGP",
+      "GPG",
+      "PGP"
+    ],
+    "key": {
+      "P": {
+        "item": "minecraft:prismarine_shard"
+      },
+      "G": {
+        "item": "minecraft:glowstone_dust"
+      }
+    },
+    "result": {
+      "item": "minecraft:sea_lantern"
+    }
+  }
+}

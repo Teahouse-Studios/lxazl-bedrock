@@ -1,0 +1,24 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:end_portal_frame_from_obsidian_and_end_stone"
+    },
+    "pattern": [
+      "O O",
+      "OOO",
+      "EEE"
+    ],
+    "key": {
+      "O": {
+        "item": "minecraft:obsidian"
+      },
+      "E": {
+        "item": "minecraft:end_stone"
+      }
+    },
+    "result": {
+      "item": "minecraft:end_portal_frame"
+    }
+  }
+}

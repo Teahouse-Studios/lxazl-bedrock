@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:soul_sand_from_soul_dirt_and_skeleton_skull"
+    },
+    "pattern": [
+      "SSS",
+      "SMS",
+      "SSS"
+    ],
+    "key": {
+      "S": {
+        "item": "minecraft:soul_sand"
+      },
+      "M": {
+        "item": "minecraft:skull",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "minecraft:soul_sand"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:bedrock_from_cobblestone_and_obsidian"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "COC",
+      "OCO",
+      "COC"
+    ],
+    "key": {
+      "C": {
+        "item": "minecraft:cobblestone"
+      },
+      "O": {
+        "item": "minecraft:obsidian"
+      }
+    },
+    "result": {
+      "item": "minecraft:bedrock"
+    }
+  }
+}
