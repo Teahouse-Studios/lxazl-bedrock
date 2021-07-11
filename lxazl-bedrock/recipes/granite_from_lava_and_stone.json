@@ -1,0 +1,19 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "minecraft:granite_from_lava_and_stone"
+    },
+    "ingredients": [
+      {
+        "item": "minecraft:lava_bucket"
+      },
+      {
+        "item": "minecraft:stone"
+      }
+    ],
+    "result": {
+      "item": "minecraft:granite"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:mycelium_from_dirt_and_red_mushroom_right"
+    },
+    "pattern": [
+      " m",
+      " d"
+    ],
+    "key": {
+      "d": {
+        "tag": "minecraft:dirt"
+      },
+      "m": {
+        "tag": "minecraft:red_mushroom"
+      }
+    },
+    "result": {
+      "item": "minecraft:mycelium"
+    }
+  }
+}

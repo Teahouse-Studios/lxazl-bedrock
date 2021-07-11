@@ -1,0 +1,24 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:dragon_egg_from_ender_pearl_and_enderman_spawn_egg"
+    },
+    "pattern": [
+      "eee",
+      "eEe",
+      "eee"
+    ],
+    "key": {
+      "e": {
+        "item": "minecraft:ender_pearl"
+      },
+      "E": {
+        "item": "minecraft:enderman_spawn_egg"
+      }
+    },
+    "result": {
+      "item": "minecraft:dragon_egg"
+    }
+  }
+}

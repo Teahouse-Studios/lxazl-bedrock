@@ -1,0 +1,19 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "minecraft:red_mushroom_block_from_red_mushroom"
+    },
+    "ingredients": [
+      {
+        "item": "minecraft:red_mushroom"
+      },
+      {
+        "item": "minecraft:bone_meal"
+      }
+    ],
+    "result": {
+      "item": "minecraft:red_mushroom_block"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:structure_void_from_barrier_and_structure_block"
+    },
+    "pattern": [
+      "bbb",
+      "bsb",
+      "bbb"
+    ],
+    "key": {
+      "b": {
+        "item": "minecraft:barrier"
+      },
+      "s": {
+        "item": "minecraft:structure_block"
+      }
+    },
+    "result": {
+      "item": "minecraft:structure_void",
+      "count": 16
+    }
+  }
+}

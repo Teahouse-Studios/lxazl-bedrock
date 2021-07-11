@@ -1,0 +1,19 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "minecraft:dead_bush_from_torch_and_sapling"
+    },
+    "ingredients": [
+      {
+        "item": "minecraft:torch"
+      },
+      {
+        "tag": "minecraft:saplings"
+      }
+    ],
+    "result": {
+      "item": "minecraft:dead_bush"
+    }
+  }
+}

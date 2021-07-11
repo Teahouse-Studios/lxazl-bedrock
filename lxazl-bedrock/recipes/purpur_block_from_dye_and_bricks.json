@@ -1,0 +1,24 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:purpur_block_from_dye_and_bricks"
+    },
+    "pattern": [
+      "sss",
+      "sps",
+      "sss"
+    ],
+    "key": {
+      "s": {
+        "item": "minecraft:stone_bricks"
+      },
+      "p": {
+        "item": "minecraft:purple_dye"
+      }
+    },
+    "result": {
+      "item": "minecraft:purpur_block"
+    }
+  }
+}

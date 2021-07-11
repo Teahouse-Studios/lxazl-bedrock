@@ -1,0 +1,24 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:cobweb_from_string_and_slimeball"
+    },
+    "pattern": [
+      "sSs",
+      "SsS",
+      "sSs"
+    ],
+    "key": {
+      "s": {
+        "item": "minecraft:string"
+      },
+      "S": {
+        "item": "minecraft:slime_ball"
+      }
+    },
+    "result": {
+      "item": "minecraft:cobweb"
+    }
+  }
+}
